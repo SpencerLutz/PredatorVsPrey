@@ -1,5 +1,3 @@
-package pkg6b.predator.vs.prey.pkg2;
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.MouseInfo;

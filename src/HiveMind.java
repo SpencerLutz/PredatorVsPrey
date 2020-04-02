@@ -1,4 +1,3 @@
-package pkg06d.hivemind;
 //fix out of bounds
 //for now do nearest d[x][y] finding
 import java.awt.Color;

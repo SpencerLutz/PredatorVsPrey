@@ -1,5 +1,3 @@
-package pkg6c.nature.sim;
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.MouseInfo;
